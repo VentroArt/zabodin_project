@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./labs/lab8/packages",
+        "./labs/lab8/modules"
+    ]
+}
